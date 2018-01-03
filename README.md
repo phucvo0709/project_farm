@@ -10,3 +10,6 @@
     + Url login: http://localhost/project_farm/admin/
     + Username: admin
     + Password: admin123
+    
+* Demo
+![demo view](http://lmsotfy.com/so.png)
