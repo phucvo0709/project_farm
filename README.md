@@ -11,5 +11,11 @@
     + Username: admin
     + Password: admin123
     
-* Demo
-![demo view](http://lmsotfy.com/so.png)
+* View
+![view](https://farm5.staticflickr.com/4644/27691050509_7eedfc0ecf_h.jpg)
+![view](https://farm5.staticflickr.com/4641/38759830114_4ac90932f7_h.jpg)
+![view](https://farm5.staticflickr.com/4637/27691050859_2d12f23908_h.jpg)
+
+* Admin
+![admin](https://farm5.staticflickr.com/4733/27691050849_6ad32da98a_h.jpg)
+![admin](https://farm5.staticflickr.com/4732/27691051349_8adebc9e1a_h.jpg)
