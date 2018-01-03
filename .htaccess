@@ -1,0 +1,13 @@
+#([0-9]+)
+#([a-zA-Z0-9-_]+)
+#ErrorDocument 404 /Ql_Nha_hang/404.html
+#ErrorDocument 403 /Ql_Nha_hang/403.html
+#Turn on the rewriting engine
+ReWriteEngine on
+ErrorDocument 404 /farm/404.php
+RewriteRule ^([a-zA-Z0-9-_]+)-([a-zA-Z0-9-_]+).htm$ detail_product.php?title=$1&id=$2
+RewriteRule ^about.htm$ about.php
+RewriteRule ^products.htm$ products.php
+RewriteRule ^terms.htm$ terms.php
+RewriteRule ^contact.htm$ contact.php
+RewriteRule ^check.htm$ order_status.php
